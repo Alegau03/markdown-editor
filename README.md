@@ -21,7 +21,8 @@ Edit your Markdown content in the left text field, and see the live preview on t
   - Python 3.x
   - Flet library (pip install flet)
   - markdown2 library (pip install markdown2)
-  - weasyprint library (pip install WeasyPrint)  
+  - weasyprint library (pip install WeasyPrint)
+  - [GTK3] (gtk.org) 
 
 
 ## Troubleshooting
